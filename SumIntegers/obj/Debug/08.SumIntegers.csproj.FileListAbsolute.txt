@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\UsingClassesAndObjects\SumIntegers\obj\Debug\08.SumIntegers.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\UsingClassesAndObjects\SumIntegers\bin\Debug\SumIntegers.exe.config
+D:\Orlinovski Tapotii\UsingClassesAndObjects\SumIntegers\bin\Debug\SumIntegers.exe
+D:\Orlinovski Tapotii\UsingClassesAndObjects\SumIntegers\bin\Debug\SumIntegers.pdb
+D:\Orlinovski Tapotii\UsingClassesAndObjects\SumIntegers\obj\Debug\SumIntegers.exe
+D:\Orlinovski Tapotii\UsingClassesAndObjects\SumIntegers\obj\Debug\SumIntegers.pdb

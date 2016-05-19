@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\UsingClassesAndObjects\TriangleAreaByThreeSides\bin\Debug\TriangleAreaByThreeSides.exe.config
+D:\Orlinovski Tapotii\UsingClassesAndObjects\TriangleAreaByThreeSides\obj\Debug\05.TriangleSurfaceByThreeSides.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\UsingClassesAndObjects\TriangleAreaByThreeSides\bin\Debug\TriangleAreaByThreeSides.exe
+D:\Orlinovski Tapotii\UsingClassesAndObjects\TriangleAreaByThreeSides\bin\Debug\TriangleAreaByThreeSides.pdb
+D:\Orlinovski Tapotii\UsingClassesAndObjects\TriangleAreaByThreeSides\obj\Debug\TriangleAreaByThreeSides.exe
+D:\Orlinovski Tapotii\UsingClassesAndObjects\TriangleAreaByThreeSides\obj\Debug\TriangleAreaByThreeSides.pdb

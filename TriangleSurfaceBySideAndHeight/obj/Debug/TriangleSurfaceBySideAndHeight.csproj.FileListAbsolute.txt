@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\UsingClassesAndObjects\TriangleSurfaceBySideAndHeight\bin\Debug\TriangleSurfaceBySideAndHeight.exe.config
+D:\Orlinovski Tapotii\UsingClassesAndObjects\TriangleSurfaceBySideAndHeight\bin\Debug\TriangleSurfaceBySideAndHeight.exe
+D:\Orlinovski Tapotii\UsingClassesAndObjects\TriangleSurfaceBySideAndHeight\bin\Debug\TriangleSurfaceBySideAndHeight.pdb
+D:\Orlinovski Tapotii\UsingClassesAndObjects\TriangleSurfaceBySideAndHeight\obj\Debug\TriangleSurfaceBySideAndHeight.exe
+D:\Orlinovski Tapotii\UsingClassesAndObjects\TriangleSurfaceBySideAndHeight\obj\Debug\TriangleSurfaceBySideAndHeight.pdb
